@@ -2,6 +2,16 @@
 
 Welcome to my simple yet entertaining **Coin Flip Game** – a fun web-based project built using **HTML**, **CSS**, and **JavaScript**. This game allows users to flip a virtual coin and randomly get either **Heads** or **Tails**, complete with smooth animations and a clean interface.
 
+## 🚀 Live Demo
+
+🔗  Try it live now:- [SLIDEBAR-4](https://innovativesumit.github.io/TEMPERATURE-CONVERTORS/)
+
+## 📸 Screenshots
+
+Here's a preview of the site:
+
+<p align="center">  <img src="https://github.com/user-attachments/assets/25935757-485e-4c80-9ea3-9ab82de82d0b" alt="Screenshot 1" width="420" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/296b4b81-cf36-4055-b136-012cb736c742" alt="Screenshot 2" width="420" height="520" /> </p>
 
 ## 🎮 Features
 
@@ -25,6 +35,13 @@ This project was created as part of my learning journey, and **AI played a suppo
 - **JavaScript** – Logic for flipping the coin and displaying results
 - **AI Tools** – Assistance in coding and debugging
 
+## 📜 License
 
+This project is open source and available under the [MIT License](LICENSE).
+## 🌟 Let's Connect
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about coding, design, robotics, and AI. Let's build something amazing together!  
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339)
 
 
