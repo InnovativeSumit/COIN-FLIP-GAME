@@ -10,8 +10,8 @@ Welcome to my simple yet entertaining **Coin Flip Game** – a fun web-based pro
 
 Here's a preview of the site:
 
-<p align="center">  <img src="https://github.com/user-attachments/assets/c9cd01e5-f4ce-4cae-8644-86d961e962e6" alt="Screenshot 1" width="320" height="620" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/296b4b81-cf36-4055-b136-012cb736c742" alt="Screenshot 2" width="420" height="520" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/c9cd01e5-f4ce-4cae-8644-86d961e962e6" alt="Screenshot 1" width="520" height="620" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/aa55c5de-f7fe-49a9-9723-ca6875ffcbe4" alt="Screenshot 2" width="520" height="720" /> </p>
 
 ## 🎮 Features
 
