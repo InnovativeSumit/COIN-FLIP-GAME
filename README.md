@@ -4,7 +4,7 @@ Welcome to my simple yet entertaining **Coin Flip Game** – a fun web-based pro
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- [SLIDEBAR-4](https://innovativesumit.github.io/TEMPERATURE-CONVERTORS/)
+🔗  Try it live now:- [COIN-FLIP-GAME](https://innovativesumit.github.io/TEMPERATURE-CONVERTORS/)
 
 ## 📸 Screenshots
 
